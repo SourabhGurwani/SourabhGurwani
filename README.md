@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/yY8jDpG9/Software-Developer-Banner.jpg)](https://github.com/SourabhGurwani)
+
 
 <h1 align="center">Hi 👋, I'm Sourabh Gurwani</h1>
 
