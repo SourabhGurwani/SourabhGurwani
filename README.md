@@ -24,9 +24,7 @@
 <a href="https://leetcode.com/u/SourabhGurwani/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="35" width="45" />
 </a>
-<a href="http://geeksforgeeks.org/user/sourabhgurwani/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" width="45" />
-</a>
+
 <a href="https://www.linkedin.com/in/sourabhgurwani/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35" width="45" />
 </a>
